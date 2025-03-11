@@ -11,7 +11,7 @@ function EventHeader({ categories, onFilter, onAddEvent }) {
         <Navbar bg="dark" expand="lg" variant="dark" sticky="top">
             <Container>
                 {/* Brand Name */}
-                <Navbar.Brand href="/">Events Manager</Navbar.Brand>
+                <Navbar.Brand href="/">CommunionHub</Navbar.Brand>
 
                 {/* Filter Dropdown */}
                 <Nav className="ms-auto d-flex align-items-center">

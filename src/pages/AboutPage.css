@@ -1,0 +1,32 @@
+/* About Page Specific Styles */
+.about-container {
+    padding: 50px 15px;
+}
+
+.about-header {
+    color: #007bff;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.about-card {
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.about-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.about-text {
+    color: #333;
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.about-title {
+    color: #007bff;
+    font-weight: bold;
+}

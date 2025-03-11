@@ -6,7 +6,7 @@ import Footer from "../components/Footer";
 
 function HomePage() {
     return (
-        <>
+        <>            
             <Header />
             <HeroSection />
             <FeaturesSection />
